@@ -3,11 +3,11 @@ const members = [
     id: 1, 
     name: "WE WANT", 
     profileImgs: [
-      "images/liyu8.jpg", 
-      "images/liyu9.jpg", 
-      "images/liyu7.jpg"
+      "images/xin1.jpg", 
+      "images/xin2.jpg", 
+      "images/xin3.jpg"
     ], 
-    detailImg: "images/liyu-pro1.jpg", 
+    detailImg: "images/xin-pro1.jpg", 
     bio: "립우가 생각한 립우의 이미지는 차갑게 생긴 바보." 
   },
   { 
